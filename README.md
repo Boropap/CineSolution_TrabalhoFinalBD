@@ -3,5 +3,5 @@ Este repositório contém o código para executar uma versão simples do CineSol
 
 Para rodar o código é simples:\
   1 - Instalar a biblioteca psycopg2 (O comando para instalar é o seguinte: ```pip install psycopg2``` OU você pode instalar diretor o binário ```pip install psycopg2-binary```)\
-  2 - Em seguida é só copiar e colar o código daqui na sua IDE de preferência. LEMBRANDO DE MANTER O CÓDIGO DENTRO DE UM ARQUIVO CHAMADO main.py
-      
+  2 - Em seguida é só copiar e colar o código daqui na sua IDE de preferência. LEMBRANDO DE MANTER O CÓDIGO DENTRO DE UM ARQUIVO CHAMADO main.py\
+  3 - Por fim é só rodar o código no terminal!
